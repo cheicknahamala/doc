@@ -1,0 +1,87 @@
+/* GENERAL */
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	font-family: Arial,sans-serif;
+	font-size: 15px;
+}
+.wrapper
+{
+	width: 1800px;
+	<!-- 0 en haut et en bas auto:donne la moitie a gauche et droite; -->
+	margin: 0 auto;
+	padding: 0 10px;
+
+}
+ul
+{
+	
+	list-style: none;
+}
+h1
+{
+	font-family: 'Crete Round',serif;
+	font-size: 45px;
+	color: #444;
+}
+a
+{
+	text-decoration: none;
+	color: #444; 
+}
+
+
+
+/* HEADER */
+img
+{
+	margin-left: 50px;
+
+}
+header
+{
+	height: 120px;
+
+
+}
+header h1
+{float: left;
+	margin-top: 32px;
+}
+header nav
+{
+	float: right;
+	margin-top: 50px;
+	margin-right: 100px;
+
+}
+header nav li
+{
+	display: inline-block;
+	float: left;
+	margin-left: 20px;
+}
+header nav li a{
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-left: 20px;
+
+}
+/* MAIN-IMAGE*/
+
+.horizontal
+{
+	margin:0.0;
+	padding: 0.0px;
+
+	height: 30px;
+	width: 1920px;
+	background-color: teal;
+}
+
+
+
